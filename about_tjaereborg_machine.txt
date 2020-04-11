@@ -1,0 +1,4 @@
+A 2MW experimental wind turbine, 'the Tjaereborg machine', is used as an example
+since the description of the machine including geometry and control is public as well as
+several measured data for various operating conditions. The wind turbine no longer
+exists, but was running between 1988 and 2001.
